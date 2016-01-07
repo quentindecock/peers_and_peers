@@ -35,7 +35,8 @@ a {
   border-color: rgba(255, 255, 255, 0.3); }
 
 input, textarea {
-  width: 600px;
+  width: 100%;
+  max-width: 600px;
   margin-bottom: 10px;
 }
 

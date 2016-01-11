@@ -1,0 +1,20 @@
+a.no-decoration {
+  border: none;
+}
+
+.reference-container {
+  margin-bottom: 20px;
+}
+
+i.reference {
+  font-size: 45px;
+  margin-right: 10px;
+}
+
+img.juste-cause-logo {
+  background-color: #f1f1f1;
+}
+
+#the-company {
+  height: 80vh;
+}
